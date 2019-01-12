@@ -4,7 +4,7 @@
 
 $MINICONDA_URL = "https://repo.continuum.io/miniconda/"
 $BASE_URL = "https://www.python.org/ftp/python/"
-$GET_PIP_URL = "https://bootstrap.pypa.io/get-pip.py"
+$GET_PIP_URL = "http://bootstrap.pypa.io/get-pip.py"
 $GET_PIP_PATH = "C:\get-pip.py"
 
 $PYTHON_PRERELEASE_REGEX = @"
